@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# archivos no necesarios
+.animaciones_5bda2325-fb2e-4060-9751-5863d226fcf1.pdf
+.diploma-animaciones-css.pdf
